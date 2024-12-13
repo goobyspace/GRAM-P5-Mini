@@ -33,6 +33,7 @@ While most of these files are universal and can be used at any fab house, **JLCP
 
 Bill of Materials
 -
+*NOTE: This ordering guide is for the DIY-friendly versions of the Slim. For Screwless panels, Powder-coated aluminum, and custom die-cut/injection molded parts, we do not have a guide, as these are beyond the reach of traditional DIY makers. These parts are still covered under GPLv3.*
 Per GRAM Slim, you will need (some files can be made using this repository, but I will link to places to purchase them if you would like to avoid MOQs)
 - 1 x [GRAM Slim PCB](https://gramctrl.com/products/gram-slim-pcb)
 - 1 x set of [Top/Bottom panels](https://gramctrl.com/products/gram-slim-aluminum-panels)
