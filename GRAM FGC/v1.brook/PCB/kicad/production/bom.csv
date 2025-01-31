@@ -1,0 +1,8 @@
+﻿Designator,Footprint,Quantity,Value,LCSC Part #
+A1,Brook_PS3PS4_PCBA,1,Brook_PS3PS4_PCBA,
+F1,1206,1,500 mA,C70076
+J1,USB_C_Receptacle_HRO_TYPE-C-31-M-23,1,USB_C_Receptacle_USB2.0_16P,
+"R1, R2",0402,2,5.1k,C25744
+R3,0603,1,1M,C22935
+"S1, S10, S11, S12, S13, S14, S2, S3, S4, S5, S6, S7, S8, S9",Kailh_socket_PG1350,14,Keyswitch,
+"SW1, SW2, SW3, SW4",RT3301AF260Q,4,SW_Push,
