@@ -1,0 +1,10 @@
+### Footprint positions - created on 2025-05-05T15:44:04+0200 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : bottom
+# Ref     Val                 Package                  PosX       PosY       Rot  Side
+A1        Brook_PS3PS4_PCBA   Brook_PS3PS4_PCBA    156.1500  -163.0400  180.0000  bottom
+R4        5.1k                R_0805_2012Metric    223.0875   -60.0000    0.0000  bottom
+R5        5.1k                R_0805_2012Metric    215.3619   -57.2255  180.0000  bottom
+USB1      HRO-TYPE-C-31-M-12  HRO-TYPE-C-31-M-12   218.3689   -45.7569    0.0000  bottom
+## End

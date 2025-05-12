@@ -1,0 +1,24 @@
+### Footprint positions - created on 2025-05-05T15:44:04+0200 ###
+### Printed by KiCad version 8.0.8
+## Unit = mm, Angle = deg.
+## Side : top
+# Ref     Val        Package                   PosX       PosY       Rot  Side
+S1        Keyswitch  Kailh_socket_PG1350   101.0155  -111.9767    0.0000  top
+S2        Keyswitch  Kailh_socket_PG1350   128.7050  -100.6233    0.0000  top
+S3        Keyswitch  Kailh_socket_PG1350   157.5322  -100.7684    0.0000  top
+S4        Keyswitch  Kailh_socket_PG1350   183.9337  -111.9767    0.0000  top
+S5        Keyswitch  Kailh_socket_PG1350   203.0007  -162.8108    0.0000  top
+S6        Keyswitch  Kailh_socket_PG1350   232.4198  -162.8108    0.0000  top
+S7        Keyswitch  Kailh_socket_PG1350   242.4170  -131.4620    0.0000  top
+S8        Keyswitch  Kailh_socket_PG1350   243.5722  -103.0015    0.0000  top
+S9        Keyswitch  Kailh_socket_PG1350   268.7673  -120.4207    0.0000  top
+S10       Keyswitch  Kailh_socket_PG1350   269.9395   -91.5268    0.0000  top
+S11       Keyswitch  Kailh_socket_PG1350   297.3878  -120.4207    0.0000  top
+S12       Keyswitch  Kailh_socket_PG1350   298.5714   -91.5268    0.0000  top
+S13       Keyswitch  Kailh_socket_PG1350   326.3867  -130.8485    0.0000  top
+S14       Keyswitch  Kailh_socket_PG1350   327.3057  -101.9546    0.0000  top
+SW1       SW_Push    RT3301AF260Q          120.3792   -69.1688   90.0000  top
+SW2       SW_Push    RT3301AF260Q          130.9792   -69.1688   90.0000  top
+SW3       SW_Push    RT3301AF260Q          141.5792   -69.1688   90.0000  top
+SW4       SW_Push    RT3301AF260Q          152.1792   -69.1688   90.0000  top
+## End
